@@ -7,9 +7,9 @@ def main():
     # Get the log file path from the command line
     log_path = get_file_path_from_cmd_line()
 
-    # TODO: Use filter_log_by_regex() to investigate the gateway log per Step 5
+    # Use filter_log_by_regex() to investigate the gateway log per Step 5
 
-    # TODO: Use filter_log_by_regex() to extract data from the gateway log per Step 6
+    # Use filter_log_by_regex() to extract data from the gateway log per Step 6
 
     return
 
